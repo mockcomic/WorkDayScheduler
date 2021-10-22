@@ -1,4 +1,7 @@
 # Work Day Scheduler Starter Code
+A work day scheduler I made for the UC Berkeley bootcamp. 
+Feel free to use it to keep track of your tasks.
+
 # User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
