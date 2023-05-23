@@ -1,23 +1,23 @@
-# Work Day Scheduler Starter Code
-A work day scheduler I made for the UC Berkeley bootcamp. 
-Feel free to use it to keep track of your tasks.
+# Work Day Scheduler
 
-# User Story
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+Stay organized and manage your time effectively with this simple yet practical Work Day Scheduler. Crafted as part of the UC Berkeley bootcamp, this application is ideal for anyone who wants to keep track of important events throughout their day.
 
-# Acceptance Criteria
-GIVEN I am using a daily planner to create a schedule
-### WHEN I open the planner
-* THEN the current day is displayed at the top of the calendar
-### WHEN I scroll down
-* THEN I am presented with time blocks for standard business hours
-### WHEN I view the time blocks for that day
-* THEN each time block is color-coded to indicate whether it is in the past, present, or future
-### WHEN I click into a time block
-* THEN I can enter an event
-### WHEN I click the save button for that time block
-* THEN the text for that event is saved in local storage
-### WHEN I refresh the page
-* THEN the saved events persist
+## User Story
+
+As an employee with a busy schedule,
+I want to add important events to a daily planner,
+so that I can manage my time effectively.
+
+## Acceptance Criteria
+
+This Daily Planner is a helpful tool for creating a comprehensive schedule. Here's how it can assist you:
+
+- When you open the planner, the current day is prominently displayed at the top of the calendar.
+- Scrolling down, you're presented with time blocks dedicated to standard business hours.
+- Time blocks are color-coded for clarity, indicating whether the time slot is in the past (gray), present (red), or future (green).
+- Clicking into a time block lets you enter an event or task for that period.
+- Save your tasks by clicking the save button for each time block. Your entries are securely saved in local storage.
+- Refreshing the page won't wipe out your tasks. Thanks to local storage, your saved events will persist.
+
+The Work Day Scheduler is your ally in efficient time management. Feel free to use it and make the most out of your workday!
+
